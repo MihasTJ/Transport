@@ -1,4 +1,4 @@
-# Transport webstie
+# Transport website
 * [General info](#general-info)
 * [Live demo](#live-demo)
 * [Technologies](#technologies)
